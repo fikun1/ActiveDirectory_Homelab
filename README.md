@@ -1,5 +1,9 @@
 # 🧩 Active Directory Homelab – Azure + Windows Server (Built from macOS)
 
+## Note:
+Powershell script used is included in repostitory.
+---
+
 ## 📘 Overview
 This project demonstrates how I built and automated a **fully functional Active Directory environment** using **Microsoft Azure**, **Windows Server 2019/2022**, and **PowerShell**, all managed from my **MacBook via Microsoft Remote Desktop (RDP)**.
 
