@@ -43,7 +43,7 @@ The goal was to simulate an enterprise-grade identity and access management (IAM
 ![Azure VM Overview](./images/adlab-azure-vm-overview.png)
 
 Deployed a Windows Server 2019 Datacenter VM through Azure Portal with:
-- Region: **Canada Central**
+- Region: **US East**
 - Size: **Standard B2s**
 - Authentication: **labadmin (local admin)**
 - Inbound Ports: **RDP (3389)**
